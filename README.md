@@ -1,6 +1,6 @@
 # Reversi
-REVERSI AI BOT
-⚫⚪ A reversi game-playing computer program ⚫⚪
-💡💻 Automatically plays against the player (user)
-✅ Selects the best move using the minimax algorithm
-📌 Optional: Two Player Game
+REVERSI AI BOT 🤖 <br>
+⚫⚪ A reversi game-playing computer program ⚫⚪ <br>
+💡💻 Automatically plays against the player (user) <br>
+✅ Selects the best move using the minimax algorithm <br>
+📌 Optional: Two Player Game <br>
