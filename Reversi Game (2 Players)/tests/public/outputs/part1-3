@@ -1,0 +1,74 @@
+Enter the board dimension: Computer plays (B/W) :   abcd
+a UUUU
+b UWBU
+c UBWU
+d UUUU
+Computer places B at ab.
+  abcd
+a UBUU
+b UBBU
+c UBWU
+d UUUU
+Enter move for colour W (RowCol):   abcd
+a UBWU
+b UBWU
+c UBWU
+d UUUU
+Computer places B at ad.
+  abcd
+a UBBB
+b UBBU
+c UBWU
+d UUUU
+Enter move for colour W (RowCol):   abcd
+a UBBB
+b UBBU
+c WWWU
+d UUUU
+Computer places B at da.
+  abcd
+a UBBB
+b UBBU
+c WBWU
+d BUUU
+Enter move for colour W (RowCol):   abcd
+a WBBB
+b UWBU
+c WBWU
+d BUUU
+Computer places B at ba.
+  abcd
+a WBBB
+b BBBU
+c BBWU
+d BUUU
+W player has no valid move.
+Computer places B at cd.
+  abcd
+a WBBB
+b BBBU
+c BBBB
+d BUUU
+Enter move for colour W (RowCol):   abcd
+a WBBB
+b BWBU
+c BBWB
+d BUUW
+Computer places B at dc.
+  abcd
+a WBBB
+b BWBU
+c BBBB
+d BUBW
+Enter move for colour W (RowCol):   abcd
+a WBBB
+b BWWW
+c BBBW
+d BUBW
+B player has no valid move.
+Enter move for colour W (RowCol):   abcd
+a WBBB
+b BWWW
+c BWWW
+d BWWW
+W player wins.

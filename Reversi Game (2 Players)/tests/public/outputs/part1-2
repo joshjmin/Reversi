@@ -1,0 +1,17 @@
+Enter the board dimension: Computer plays (B/W) :   abcdef
+a UUUUUU
+b UUUUUU
+c UUWBUU
+d UUBWUU
+e UUUUUU
+f UUUUUU
+Computer places B at bc.
+  abcdef
+a UUUUUU
+b UUBUUU
+c UUBBUU
+d UUBWUU
+e UUUUUU
+f UUUUUU
+Enter move for colour W (RowCol): Invalid move.
+B player wins.

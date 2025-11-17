@@ -1,0 +1,580 @@
+Enter the board dimension: Computer plays (B/W) :   abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUUUUUU
+d UUUWBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at cd.
+  abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUBUUUU
+d UUUBBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUBWUUU
+d UUUBWUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at cf.
+  abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUUBBBUU
+d UUUBBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UUWBBBUU
+d UUUWBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at cb.
+  abcdefgh
+a UUUUUUUU
+b UUUUUUUU
+c UBBBBBUU
+d UUUWBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUUUUUU
+b UUUWUUUU
+c UBBWBBUU
+d UUUWBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at ad.
+  abcdefgh
+a UUUBUUUU
+b UUUBUUUU
+c UBBBBBUU
+d UUUBBUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUBUUUU
+b UUUBWUUU
+c UBBBWBUU
+d UUUBWUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at bf.
+  abcdefgh
+a UUUBUUUU
+b UUUBBBUU
+c UBBBBBUU
+d UUUBWUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUBUUUU
+b UUUBBBUU
+c UBBBBBUU
+d UUWWWUUU
+e UUUBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at ec.
+  abcdefgh
+a UUUBUUUU
+b UUUBBBUU
+c UBBBBBUU
+d UUBBWUUU
+e UUBBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUBUUUU
+b UUWBBBUU
+c UBBWBBUU
+d UUBBWUUU
+e UUBBWUUU
+f UUUUUUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at fe.
+  abcdefgh
+a UUUBUUUU
+b UUWBBBUU
+c UBBWBBUU
+d UUBBBUUU
+e UUBBBUUU
+f UUUUBUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUBUUUU
+b UUWBBBUU
+c UBBWWWWU
+d UUBBBUUU
+e UUBBBUUU
+f UUUUBUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at ch.
+  abcdefgh
+a UUUBUUUU
+b UUWBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UUBBBUUU
+f UUUUBUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUUBUUUU
+b UUWBBBUU
+c UBBWBBBB
+d UUBBWUUU
+e UUBBBWUU
+f UUUUBUUU
+g UUUUUUUU
+h UUUUUUUU
+Computer places B at ac.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBWBBBB
+d UUBBWUUU
+e UUBBBWUU
+f UUUUBUUU
+g UUUUUUUU
+h UUUUUUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBWBBBB
+d UUBBWUUU
+e UUBBWWUU
+f UUUUWUUU
+g UUUUWUUU
+h UUUUUUUU
+Computer places B at he.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBWBBBB
+d UUBBBUUU
+e UUBBBWUU
+f UUUUBUUU
+g UUUUBUUU
+h UUUUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBWBBBB
+d UUWBBUUU
+e UWWWWWUU
+f UUUUBUUU
+g UUUUBUUU
+h UUUUBUUU
+Computer places B at fa.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBWWWWUU
+f BUUUBUUU
+g UUUUBUUU
+h UUUUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBWWWWUU
+f BUUUWUUU
+g UUUWBUUU
+h UUUUBUUU
+Computer places B at eg.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUUUWUUU
+g UUUWBUUU
+h UUUUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUUUWUUU
+g UUUWWWUU
+h UUUUBUUU
+Computer places B at hc.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUUUBUUU
+g UUUBWWUU
+h UUBUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUUUBUUU
+g UUWWWWUU
+h UUBUBUUU
+Computer places B at fc.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUBUBUUU
+g UUBBWWUU
+h UUBUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUBUBUUU
+g UWWWWWUU
+h UUBUBUUU
+Computer places B at fg.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUUU
+e UBBBBBBU
+f BUBUBUBU
+g UWWWWBUU
+h UUBUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUWU
+e UBBBBWBU
+f BUBUWUBU
+g UWWWWBUU
+h UUBUBUUU
+Computer places B at ga.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUWU
+e UBBBBWBU
+f BUBUWUBU
+g BBBBBBUU
+h UUBUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUWU
+e UBBBBWBU
+f BUBUWUWU
+g BBBBBBUW
+h UUBUBUUU
+Computer places B at eh.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUBU
+e UBBBBWBB
+f BUBUWUBU
+g BBBBBBUW
+h UUBUBUUU
+Enter move for colour W (RowCol):   abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUBU
+e UBBBBWBB
+f BUBUWUBU
+g BBBBBWUW
+h UUBUBUWU
+Computer places B at gg.
+  abcdefgh
+a UUBBUUUU
+b UUBBBBUU
+c UBBBBBBB
+d UUBBBUBU
+e UBBBBWBB
+f BUBUWUBU
+g BBBBBBBW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a UWBBUUUU
+b UUWBBBUU
+c UBBWBBBB
+d UUBBWUBU
+e UBBBBWBB
+f BUBUWUBU
+g BBBBBBBW
+h UUBUBUWU
+Computer places B at aa.
+  abcdefgh
+a BBBBUUUU
+b UUWBBBUU
+c UBBWBBBB
+d UUBBWUBU
+e UBBBBWBB
+f BUBUWUBU
+g BBBBBBBW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBUUUU
+b UUWWWWWU
+c UBBWBWWB
+d UUBBWUWU
+e UBBBBWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at af.
+  abcdefgh
+a BBBBUBUU
+b UUWWBWBU
+c UBBBBWWB
+d UUBBWUWU
+e UBBBBWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBUBUU
+b UUWWBWWW
+c UBBBBWWB
+d UUBBWUWU
+e UBBBBWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at ah.
+  abcdefgh
+a BBBBUBUB
+b UUWWBWBB
+c UBBBBBWB
+d UUBBBUWU
+e UBBBBWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWBUB
+b UUWWWWBB
+c UBBBWBWB
+d UUBBWUWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at bb.
+  abcdefgh
+a BBBBWBUB
+b UBBBBBBB
+c UBBBWBWB
+d UUBBWUWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWBUB
+b UBBWBBBB
+c UBWBWBWB
+d UWWWWUWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at df.
+  abcdefgh
+a BBBBWBUB
+b UBBBBBBB
+c UBWBBBBB
+d UWWWWBWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWBUB
+b UBBBBBBB
+c WWWBBBBB
+d UWWWWBWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at da.
+  abcdefgh
+a BBBBWBUB
+b UBBBBBBB
+c WBWBBBBB
+d BBBBBBWU
+e UBBBWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWBUB
+b UBBBBBBB
+c WBWBBBBB
+d WWBBBBWU
+e WWWWWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at ba.
+  abcdefgh
+a BBBBWBUB
+b BBBBBBBB
+c BBWBBBBB
+d BWBBBBWU
+e BWWWWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBWBWB
+d BWBWBBWU
+e BWWWWWWB
+f BUBUWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at fd.
+  abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBWBWB
+d BBBBBBWU
+e BWBBBWWB
+f BUBBWUWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBWBWB
+d BBBWBBWU
+e BWWBBWWB
+f BWWWWUWU
+g BBBBBBWW
+h UUBUBUWU
+Computer places B at ff.
+  abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBWBWB
+d BBBWBBWU
+e BWWBBBWB
+f BBBBBBWU
+g BBBBBBWW
+h UUBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBWBWB
+d BBBWBWWU
+e BWWBWBWB
+f BWBWBBWU
+g BWWBBBWW
+h UWBUBUWU
+Computer places B at fh.
+  abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBBWB
+d BBBWBBWU
+e BWWBWBBB
+f BWBWBBBB
+g BWWBBBWW
+h UWBUBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBBWB
+d BBBWBBWU
+e BWWBWBBB
+f BWBWBBBB
+g BWWWBBWW
+h UWWWBUWU
+Computer places B at ha.
+  abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBBWB
+d BBBWBBWU
+e BWWBWBBB
+f BWBWBBBB
+g BBWWBBWW
+h BBBBBUWU
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBBWB
+d BBBWBBWW
+e BWWBWBBW
+f BWBWBBBW
+g BBWWBBWW
+h BBBBBUWU
+Computer places B at hh.
+  abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBBWB
+d BBBWBBWB
+e BWWBWBBB
+f BWBWBBBB
+g BBWWBBBB
+h BBBBBUWB
+Enter move for colour W (RowCol):   abcdefgh
+a BBBBWWWB
+b BBBBBWWB
+c BBWBBWWB
+d BBBWBWWB
+e BWWBWWBB
+f BWBWBWBB
+g BBWWWWBB
+h BBBBBWWB
+B player wins.
